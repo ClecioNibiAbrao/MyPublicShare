@@ -1,3 +1,4 @@
+
 -------Query information_schema with SELECT
 -- holds information about your current database: tables and columns
 -- Query the right table in information_schema
